@@ -1,0 +1,7 @@
+strict digraph G {
+  1 [ label="/usr/lib/postgresql/12/bin/postgres" ];
+  2 [ label="100" ];
+  3 [ label="95" ];
+  4 [ label="218" ];
+  2 -> 1 [ label="" ];
+}
